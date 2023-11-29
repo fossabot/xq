@@ -6,6 +6,7 @@
 [![Scc Count](https://sloc.xyz/github/sibprogrammer/xq/)](https://github.com/sibprogrammer/xq/)
 [![Homebrew](https://img.shields.io/badge/dynamic/json.svg?url=https://formulae.brew.sh/api/formula/xq.json&query=$.versions.stable&label=homebrew)](https://formulae.brew.sh/formula/xq)
 [![Macports](https://repology.org/badge/version-for-repo/macports/xq-sibprogrammer.svg)](https://repology.org/project/xq-sibprogrammer/versions)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsibprogrammer%2Fxq.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsibprogrammer%2Fxq?ref=badge_shield)
 
 Command-line XML and HTML beautifier and content extractor.
 
@@ -116,3 +117,7 @@ You can play with the `xq` utility using the Dockerized environment:
 docker-compose run --rm xq
 xq /opt/examples/xml/unformatted.xml
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsibprogrammer%2Fxq.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsibprogrammer%2Fxq?ref=badge_large)
